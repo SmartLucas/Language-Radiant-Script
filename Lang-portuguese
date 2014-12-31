@@ -28,6 +28,9 @@
         "save_and_close": "Salvar e Fechar",
         "open_settings": "Abrir configurações",
         "reset_colors": "Reconfigurar as Cores"
+        "header_custombg": "Background Customizado",
+        "default": "Padrão",
+        "gallery": "Galeria"
     },
 
 
@@ -58,7 +61,9 @@
         "mirror": "Espelhar..",
         "old_chat": "Chat estilo antigo",
         "ccc": "Cores do chat customizadas"
+        "custombg": "Background Customizado"
     },
+
 
 
     "help": {
@@ -83,16 +88,16 @@
             "p": "Abrir playlists",
             "h": "Abrir histórico",
             "space": "Silenciar música",
-            "+": "Aumentar volume +5",
-            "-": "Diminuir volume -5",
+            "plus": "Aumentar volume +5",
+            "minus": "Diminuir volume -5",
             "t": "Digitar no chat",
             "j": "Entrar na lista de espera",
             "J": "Sair da lista de espera",
-            "i": "Ativar inverção",
-            "1": "Ativar vídeo em Tela Cheia",
-            "2": "Ativar chat em Tela Cheia",
-            "3": "Esconder/Ativar Vídeo",
-            "0": "Fluxo de Vídeo",
+            "i": "Ativar inversão",
+            "one": "Ativar vídeo em Tela Cheia",
+            "two": "Ativar chat em Tela Cheia",
+            "three": "Esconder/Ativar Vídeo",
+            "zero": "Fluxo de Vídeo",
             "tab": "Sair do Chat",
             "z": "Banir usuário selecionado",
             "x": "Calar usuário selecionado",
